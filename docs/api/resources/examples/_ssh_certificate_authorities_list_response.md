@@ -7,12 +7,12 @@
   "next_page_uri": null,
   "ssh_certificate_authorities": [
     {
-      "created_at": "2025-06-10T10:10:42Z",
+      "created_at": "2025-07-21T10:07:56Z",
       "description": "Staging Environment Hosts",
-      "id": "sshca_2yJQYOFN6xa25IVx35bHY23fpXZ",
+      "id": "sshca_30BEHIRoHRzSMgIuym605rypyHV",
       "key_type": "ed25519",
-      "public_key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOnIJZNhaVJID0IBeJ6UWvShTCEMB9jpWDel2/a3cLII",
-      "uri": "https://api.ngrok.com/ssh_certificate_authorities/sshca_2yJQYOFN6xa25IVx35bHY23fpXZ"
+      "public_key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIzpAZnn4l6SVrut4Q2u4gzoKvxpqf8edEgUiDMOWlXb",
+      "uri": "https://api.ngrok.com/ssh_certificate_authorities/sshca_30BEHIRoHRzSMgIuym605rypyHV"
     }
   ],
   "uri": "https://api.ngrok.com/ssh_certificate_authorities"
